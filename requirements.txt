@@ -5,7 +5,6 @@ diffusers==0.18.2
 transformers==4.27.0
 safetensors==0.3.1
 invisible_watermark==0.2.0
-numpy==1.24.3
 seaborn==0.12.2
 accelerate==0.16.0
 scikit-learn==1.1.3
